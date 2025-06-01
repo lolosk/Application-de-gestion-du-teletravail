@@ -66,8 +66,12 @@ Ce projet est partagé sous licence **Creative Commons 0**. Voir le fichier [LIC
 
 ---
 
-## 📝 À venir
+## 📝 Avancement
 
-- [ ] Export Power Apps (fichier .msapp)
+- [x] Menu Power Apps (fichier .msapp)
+- [ ] Formulaire de demande Forms
+- [ ] Flux Power Automate
+- [ ] Historique de demande utilisateur
+- [ ] Modification de demande
 - [ ] Guide de déploiement pas à pas
-- [ ] Version multi-utilisateur / multi-établissement
+
