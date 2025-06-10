@@ -31,7 +31,7 @@ Ce projet a été réalisé dans le cadre de mon stage pour la Maison de région
 
 | Formulaire | Liste SharePoint | Approbation Teams |
 |-----------|------------------|-------------------|
-| ![](./images/Formulaire.png) | ![](./images/sharepoint-list.png) | ![](./images/approval-teams.png) |
+| ![](./images/Formulaire.png) | ![](./images/Liste.png) | ![](./images/Approbation.png) |
 
 ---
 
