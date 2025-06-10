@@ -26,6 +26,9 @@ Ce projet a été réalisé dans le cadre de mon stage pour la Maison de région
 
 ## 🖼️ Aperçu visuel
 
+![](./images/Schema_fonctionnel_TT.drawio.png)
+
+
 | Formulaire | Liste SharePoint | Approbation Teams |
 |-----------|------------------|-------------------|
 | ![](./images/powerapps-formulaire.png) | ![](./images/sharepoint-list.png) | ![](./images/approval-teams.png) |
