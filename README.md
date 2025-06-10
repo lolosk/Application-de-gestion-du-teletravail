@@ -7,7 +7,7 @@ Ce projet a été réalisé dans le cadre de mon stage pour la Maison de région
 ## 🧩 Technologies utilisées
 
 - **Microsoft Forms** (formulaire initial)
-- **SharePoint Online** (liste des demandes)
+- **SharePoint Online** (liste des demandes, solde utilisateur)
 - **Power Apps** (interface utilisateur, visualisation et actions)
 - **Power Automate** (workflow d'approbation avec notifications Teams/Outlook)
 - **Teams & Outlook** (canaux de validation)
