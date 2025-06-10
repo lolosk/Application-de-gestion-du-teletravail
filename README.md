@@ -72,9 +72,9 @@ Ce projet est partagé sous licence **Creative Commons 0**. Voir le fichier [LIC
 ## 📝 Avancement
 
 - [x] Menu Power Apps (fichier .msapp)
-- [ ] Formulaire de demande Forms
+- [x] Formulaire de demande Forms
 - [ ] Flux Power Automate
-- [ ] Historique de demande utilisateur
-- [ ] Modification de demande
+- [x] Historique de demande utilisateur
+- [x] Modification de demande
 - [ ] Guide de déploiement pas à pas
 
